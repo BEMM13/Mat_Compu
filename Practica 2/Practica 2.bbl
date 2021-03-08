@@ -1,0 +1,25 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Martinez(2021)]{repositorio}
+Brenda Martinez.
+\newblock {Repositorio de Github}.
+\newblock \url{https://github.com/BEMM13/Mat_Compu.git}, 2021.
+
+\bibitem[R(---)]{euro}
+R.
+\newblock {R DATABASE}.
+\newblock
+  \url{https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/euro.html},
+  ---.
+
+\bibitem[Vespere(2018)]{1streport}
+Brita~Laura Vespere.
+\newblock {1st Report - Dataset ‘Conversion Rates of Euro Currencies’}.
+\newblock \url{https://rpubs.com/Bricccc/First_Report_Vespere}, 2018.
+
+\end{thebibliography}
