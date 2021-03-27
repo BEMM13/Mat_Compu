@@ -1,0 +1,19 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Martinez(2021)]{repositorio}
+Brenda Martinez.
+\newblock {Repositorio de Github}.
+\newblock \url{https://github.com/BEMM13/Mat_Compu.git}, 2021.
+
+\bibitem[Mora~F.(2015)]{METNUM}
+Walter Mora~F.
+\newblock \emph{Introducción a los Métodos Numéricos. -Implementaciones en
+  R}.
+\newblock Escuela de Matemática,Instituto Tecnológico de Costa Rica, 2015.
+
+\end{thebibliography}
